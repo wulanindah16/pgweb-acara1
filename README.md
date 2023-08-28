@@ -1,5 +1,5 @@
 # pgweb-acara1
-Perencanaan Produk Web GIS dan Git
+Perencanaan Produk WebGIS dan Git
 
 Nama: Wulan Indahsari
 
@@ -9,4 +9,4 @@ Kelas: B
 
 Avatar:
 
-![Avatar](image/xxyy.png)
+![Avatar](image/avatar.png)
